@@ -1,0 +1,177 @@
+.browser{
+    width: 100%;
+    height: 56px;
+    display: flex;
+    box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.08);
+}
+ .items{
+     display: flex;
+ }
+
+.adress{
+
+    font-size: 20px;
+
+    margin-top: 8px;
+    width: 75vw;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #F1F3F4;
+    margin-right: 10vw;
+    margin-left: 12px;
+}
+.adress .secure{
+    margin-top: 15px;
+    margin-left: 17px;
+    margin-right: 12px;
+}
+
+.strelki{
+    margin-top: 20px;
+    margin-left: 9px;
+    margin-right: 7px;
+    width: 16px;
+    height: 16px;
+}
+
+.cansel{
+    margin-top: 21px;
+    margin-left: 15px;
+    margin-right: 13px;
+    width: 14px;
+    height: 14px;
+}
+
+.home{
+    margin-top: 16px;
+    margin-left: 12px;
+    width: 24px;
+    height: 24px;
+}
+
+.more{
+    margin-top: 16px;
+    width: 12px;
+    height: 24px;
+}
+
+.usIm{
+    margin-top: 14px;
+    margin-right: 14px;
+    width: 28px;
+    height: 28px;
+    background-color: #C4C4C4;
+    border-radius: 15px;
+}
+.header{
+    width: 100%;
+    height: 56px;
+}
+
+.headerItems{
+    display: flex;
+}
+
+.logo{
+    margin-right: 28px;
+}
+.ServisesSerch{
+    margin-top: 16px;
+    width:  74vw;
+    display: flex;
+}
+.ServisesSerch .servises{
+    margin-right: 40px;
+}
+
+.servises{}
+
+.servImg{
+    margin-right: 8px;
+}
+
+.searchImg{
+    margin-right: 8px;
+}
+
+.user {
+    width: 26vw;
+}
+
+.user .notif{
+    width: 16px;
+    height: 20px;
+    margin-bottom: 8px;
+    margin-right: 14px;
+    margin-left: 14px;
+}
+
+.helpdesk{
+    margin-top: 16px;
+}
+
+.usImg{
+    margin-top: 16px;
+}
+
+.sideMenu{
+    background-color: #D0CBF0;
+    width: 56px;
+    /*height: max-c;*/
+}
+
+.sideMenuLogo{
+    /*width: 40px;*/
+    /*height: 40px;*/
+}
+
+.menuItems .img{
+    width: 24px;
+    height: 24px;
+}
+.menuItems{
+    margin-top: 4px;
+    margin-bottom: 4px;
+    width: 56px;
+    height: 54px;
+}
+
+.sideHome .sideHomeImg{
+    margin: 18px 17px 19px 18px;
+}
+.union{
+    display: flex;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.union .unionImg{
+    width: 51px;
+    margin: 19px 19.5px 18.5px 18px;
+}
+
+.staf .stafImg{
+    margin: 21px 17px;
+}
+
+.watch .watchImg{
+    margin: 21.14px 21.14px 17px 17px;
+}
+
+
+.next{
+    margin-top: 30.6vw;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 8px;
+    width: 36px;
+    height: 36px;
+}
+
+
+.next .strela{
+    margin: 14.59px 12px 14px 12px;
+}
+
+
+
+
